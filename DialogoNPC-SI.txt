@@ -1,0 +1,3 @@
+Dialogo1: "Excelente, en ese caso podemos comenzar"
+
+Dialogo2: "Lo primero que deberás hacer es..."
