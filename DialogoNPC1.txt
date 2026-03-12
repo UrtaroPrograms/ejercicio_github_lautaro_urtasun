@@ -3,3 +3,5 @@ Dialogo1: Bienvenido, yo seré tu compañero por hoy.
 Dialogo2: Para empezar, deberás realizar una pequeña prueba.
 
 Dialogo3: ¿Estás listo?
+
+["dialogoNPC-NO"]
