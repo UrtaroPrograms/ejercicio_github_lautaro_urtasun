@@ -1,0 +1,3 @@
+Dialogo1: "Oh, eso no me lo esperaba."
+
+Dialogo2: "Es una pena, no podremos continuar..."
